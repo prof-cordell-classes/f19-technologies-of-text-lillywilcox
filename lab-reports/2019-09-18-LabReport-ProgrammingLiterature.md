@@ -4,34 +4,30 @@
 
 ## Process Description
 
-Why would we make a Twitter bot?
-Combat negative associations with bots
-Bots as artforms
-Figuring out how they work
-
-Symbol value pairs
-
-to die on a kitchen floor at 7 o'clock in the morning while other people are frying eggs is not so rough unless it happens to you.
+I chose to base my bot on a section of poetry from "The Twins" by Bukowski: "to die on a kitchen floor at 7 o'clock in the morning while other people are frying eggs is not so rough unless it happens to you." Generally, I have mixed feelings about Bukowski, but I think this chunk of poetry is morbid, but hilarious. During our lab, we learned how to write JSON code in Tracery, a software that runs twitter bots. In order to make the JSON code work, one must have the appropriate values to fill into the origin line, seperated by the appropriate brackets, colons, and, quotation marks. I started first by working with a more simple origin that was not based on poetry, [#verb# the #noun#]. Once I saw things working, I started on my own code, which is below: 
 
 {
-"verb":["pray","eat","fall","sing","laugh","slither","stumble","paint","stretch","die","exercize","lie","rest","collapse","sleep","smile","cry"],
-"location":["on a kitchen floor,"on a bedroom floor","on a vintage sofa", "on a dance floor","on a dangerous playground","in a coffee shop","at an art museum","beyond the stars","in a middle school bathroom","in a rocket ship","in a camper","on a baseball field","in a bathtub"],
-"time":["8 o'clock in the evening","12 o'clock midnight","3 o'clock in the afternoon","3:30 in the morning","1 o'clock in the afternoon","7 o'clock in the evening","11 o'clock at night","8:30 in the morning"],
-"combination":["reading newspapers","drinking coffee","smelling roses","watering flowers","digging holes","telling stories","riding bicycles","painting landscapes","lifting weights","playing music"],
-"adjective":["disappointing","rough","great","awesome","exciting","curious","super","amazing","horrible","bad"],
-"origin":["to #verb# #location# at #time# while other people are #combination# is not so #adjective# unless it happens to you."]
+"origin":["to #verb# #location# at #time# while other people are #combination# is not so rough, unless it happens to you."],
+"verb":["pray","eat","fall","sing","laugh","slither","stumble","paint","stretch","die","exercise","lie","rest","collapse","sleep","smile","cry","wallow"],
+"location":["on a kitchen floor", "on a bedroom floor", "on a vintage sofa", "on a dance floor", "on a playground", "in a coffee shop", "at an art museum", "in a middle school bathroom","in a rocket ship","in a camper","on a baseball field","in a bathtub"],
+"time":["8 o'clock in the evening", "12 o'clock midnight", "3 o'clock in the afternoon", "3 o'clock in the morning", "1 o'clock in the afternoon", "11 o'clock at night", "9 o'clock in the morning", "2 o'clock in the afternoon", "5 o'clock in the evening", "7 o'clock in the morning", "10 o'clock at night"],
+"combination":["reading newspapers", "drinking coffee", "smelling roses", "watering flowers", "digging holes", "telling stories", "riding bicycles","painting landscapes","lifting weights","playing music"]
 }
 
-You should begin with _1-2 paragraphs_ outlining precisely what you did in the lab activity. While much in these paragraphs will repeat between students, it is worthwhile to write out your experience, both to help you remember what you did and because your experiences—and what you take away or emphasize—will differ in subtle but important ways from your classmates. Most of our experiential activities will include specific outcomes. You might produce a specific material product, such as a letterpress printed sheet, or be asked to adapt code we went over together to answer a new question. The first task of any lab report, then, will be to demonstrate completion of these tasks.
-
-Your entries may also include pictures taken during a given lab (and in fact many would benefit from such images. Any images you use should be added to the `images` folder in your repository.
-
-![a photograph of a woman typing with lights tracking her finger movements](/images/lighttyping.jpg)
+I plugged my code into the Tracery twitter bot creator to tweet to the account @totbotlww. What I didn't realize until I went back to look at my twitter for this lab report was that I never tweeted anything after
+plugging in my code. I must not have saved the schedule I set on Wednesday. Now my bot is scheduled to tweet every ten minutes. 
 
 ## Observations
 
-In the next section of each report, you should in **2-3 paragraphs** move from a literal description of what you did in the lab to a more conceptual set of observations. In brief, you want to home in on those aspects of the lab that raised questions or prompted new insights into the textual technology we investigated in the lab activity. What new ideas occurred to you while working? What surprised, delighted, or frustrated you?
+JSON was a bit finicky to work with to create my bot. Though, I don't have any coding experience, so I'm sure I would feel the same way about any type of code that we could have used. I did not have the same issues with the types of commas or quotation marks made in my text editor that others had, but I still ran into problems. These problems were issues with my ability to spot mistakes in writing code. I had issues a missing closing bracket and added spaces in my code and could not figure out what was causing the problem in Tracery. My lack of experience in writing JSON caused the problem, but my lack of experience in reading JSON extended the problem. When reading through an essay in Miscrosoft Word, I can easily spot a typo or an additional space, but my eye has not been trained for JSON and Tracery or Macdown yet. I learned that it is important for me to be diligent when working with JSON because the mistakes that I make are harder to correct.
+
+The other issue I had was maintaining the integrity of the line I was manipulating. I wanted the bot's tweets to at least remind me of the origial line. After writing code in which almost every word was changed, I realized that I was losing the poetry entirely. The generated lines were also complete nonsense. The hardest thing to figure out was the replacement for "frying eggs." Initially, I had different pieces in the origin for the gerund and the plural noun, but I ended up with phrases like "while other people are flying paintbrushes" or "tasting flowers." I decided to sacrifice variety for something that made sense and ultimately wrote phrases to plug into the line in that section. I also decided to keep the adjective "rough" from the original line instead of making the bot vary that part of the line. I wanted to keep the jaded tone communicated by the word "rough." Ultimately, I did a lot more code writing than I ended up using because of these things.
+
 
 ## Analysis
 
-The final section of each report should bring your work in the lab into direct, critical conversation with our readings. In **_3-4 paragraphs_**, you should connect your lab observations to ideas from readings assigned _in the given lab unit_. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class’ Unessay projects. Think of your lab reports as an evolving research paper, and take them as seriously as one.
+One thing that Annette Vee touches on in Computer Programming as Literacy is how learning to code is much more accessible than it used to be. This isn't something I was truly able to wrap my head around until this lab. I knew that there were many means to learn to write code that were acessible to me, but I never thought that I could do it. I am definitely not a STEM person, and because of that, I thought that my attempts at coding would be fruitless. While I proved myself wrong and now have my own working Twitter Bot, I still think there are still societal preconceptions about the kinds of people who can code. Coding is much more interdisciplinary than I previously believed. While the creation of code is still pretty technical, my understanding of its usages has been broadened. Through code, I have written some pretty weird poetry, but poetry nonetheless.
+
+I would say that coding is a type of literacy, but it is not something in which everyone has to be be literate. Vee explains that literacy is an "undefined concept" through which we can determine what "society values" (2). Society clearly values coding right now, which is what makes the debate surrounding coding literacy so hot. However, I would say that different types of literacy can coexist and can fall differently in individual hierarchies than in does into our collective societal hierarchy. If we view literacy as "a set of practices" throuch which we communicate, there is room for communication through different channels in that set. (27)
+
+Vee explains that "a concept of coding literacy suggests programming is a literacy practice with many applications beyond a profession defined by a limited set of values" (8). Based on Vee's argument, I would agree that coding is a type of literacy, but I don't think that it needs to be ubiquitious. It is very practical in an increasing digital world, but I don't see code becoming the primary means through which writing and communicating happens. Because of our individual literacy hierarchies, code might fall to the bottom of the ladder. Even if it is the most in-demand skill, one might sacrifice their coding literacy to grow their skills in other literacies. We can teach everyone to code, but not everyone is going to enjoy it or be talented in it. 
