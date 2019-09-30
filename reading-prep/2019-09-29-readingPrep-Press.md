@@ -1,0 +1,9 @@
+# Reading Prep: Press
+
+#### Lilly Wilcox
+
+## Questions or Observations
+
+1. The author describes David Walker's attention "to the power of every printed character of every page" making Walker's Appeal seem more like an artwork than a pamphlet. I would say that work done on a printing press is art, but when printing presses were the primary means of disseminating information, I doubt this would have been a commonly held opinion back in the day. Where what makes printing an art form? Or is it an artform at all?
+2. When reading the chunk of David Walker's text on page 59, where the number of exclamation marks are increased after each sentence, I heard the intensity rise with each sentence. I am curious how reading conventions have changed over time. Would readers contemporary to David Walker read this in the same way? How had speeches been translated into type prior to this? How were readers in the 19th century trained in reading speeches?
+3. One thing that I thought was interesting in the Price reading was when she talked about how commercialization lead to the decline of lending of books. The argument that they made, that lending a book was "immoral or even disgusting," is really interesting. This has to be based upon the idea that books are extremely personal, which to me makes it so special that one would chose to lend a book. If I share a book with you that I really love, your reading of it is almost like an insight into my psyche. This has just been on my mind because one of my friends recently asked me to make her a list of my favorite books so that she could read them. I was really touched by that request so to see that process spun in a different way was interesting. I understand that the lending of books as immoral was not the true belief, only the belief propagated by commercialization, but it runs so counter to what I am used to that it was kind of shocking. 
