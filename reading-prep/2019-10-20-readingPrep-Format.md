@@ -1,0 +1,9 @@
+# Reading Prep: Format
+
+#### Lilly Wilcox
+
+## Questions or Observations
+
+1. Reading Chesnutt's "Baxter's Procrustes" was really fun. At first I was put off by how gatekeep-y the Bodleian Society was, but by the end of the piece I understood it as a satire. My interest in the piece was piqued by the fact that the men described seemed like such caricatures, and I ended up reading the backstory of this piece. I love that this piece is a direct response his denial of admission to the Rowfant Club in Cleveland. And its also absurd that even Chesnutt, who was 7/8th white and white-passing, was denied admission to a literary society based on his race. In class we have talked about the pairing of class with literacy, but besides the piece Dinius piece on David Walker we haven't talked much about race. I thought this Chesnutt piece is an interesting way dive into that conversation. 
+2. Reading the interleaf was a fun challenge. I didn't think that the actual process of reading was that difficult, but I do think it negatively affected my comprehension. One thing that I found to be particularly hard was recovering when I lost my place. When I came back to the page, I could find bits of text that I knew I read, but it was hard to find distinct sections because they were spread out accross the page rather than densley packed into the same area.
+3. This quote from prescribed reading stood out to me: “the habit of exciting novel-reading leads to fatty degeneration of the literary mind,—i.e., to an unhealthy and spasmodic action of the imagination.” The use of the word literary seems unusual. I percieve a "literary mind" one that has read a lot of books. Yes, I would perceive some books to be more "literary" than others, but they are books nonetheless. I am wondering what reading a "literary mind" would have done in 1889, because this assertion seems so wholly opposite to what I understand as a modern student and reader. 
