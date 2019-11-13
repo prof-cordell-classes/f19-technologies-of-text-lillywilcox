@@ -1,0 +1,23 @@
+# Lab Report: Text as Data
+
+#### Lilly Wilcox
+
+## Process Description
+
+In this lab, we learned to use rstudio to process texts. We ran the text of George Eliot's "The Sad Fortunes of the Rev. Amon Barton" using the Project Gutenberg website. Using this text variable, we learned how to write code to process word count and filter out stopwords, as well as how to run the code for a different variable of our own choosing. (I used a text "The Story of a Cat" by Emile De La Bedolliere from Project Gutenberg.) Then we looked at the corpus of Jane Austen and looked at similar statistics across multiple novels and view graphs. Lastly, we learned about ngrams, which are strings of words that occur frequently in texts, and looked at ngrams across Jane Austen's corpus. 
+
+## Observations
+
+One thing that stood out to me, working in rstudio, was all the the borrowed literary language. The most obvious case is the term "library" to describe a collection of pre-written code. We also talked about the term "token," which was taken from linguistics. Reflecting back on our Annette Vee discussion, I am more convinced that coding is a type of literacy now having worked with it, specifically because the creators of rstudio seemed to view it that way, as based on their terminology. The term "library" seemed to familiarize the somewhat intimidating process of learning to code for me. 
+
+One thing that suprised me about this lab was the sheer amount of data that has been prepped for rstudio. Having no prior experience in coding, I didn't know about the analytical capabilities of code in social sciences, and I didn't know about how much it is used. The fact that there is a library created to help analyze texts in Project Gutenberg showed me how important this process really is. I am more motivated to learn more about coding after this lab for its help in analyzing masses of data that would have previously seemed unattainable. 
+
+## Analysis
+
+The foremost thing that I took out of our discussion of Syndey Padua's *The Adventures of Lovelace and Babbage* was that Ada Lovelace was the first person to think about "computers" as a way to think about more than numbers. This idea is what has made computers so ubiquitous, and it influenced my perception of the use of code to analyze language in this lab. The obvious example of the plight of George Eliot comes to mind when thinking of this. As the analytical engine converts what we believe to be Eliot's novel into the punch cards. While to most people, that wouldn't be readable. However, if we think of an alphabet as data visualization, those punch cards are just a different form of that. Those punch cards were a data visualizatoin that Lovelace learned to read. 
+
+Similarly, in this lab, the data of the different texts we processed were simply visualized in a different way than we would expect. We were able to read line by line in a spreadsheet, or read the most common words. The compilation of data in rstudio is even more similar to traditional reading than the example of the analytical engine, as it still uses the roman alphabet to communicate data. This system of processing language would not have been possible without the revolutionary ideas of Lovelace. As Lovelace predicted, basic computer functions are applicable for more than just mathematical calculations. Data extends far beyond numbers.
+
+One success of Padua's graphic novel is her explanation of the analytical engine as a physical space. While it was not navigable by people, as she describes in *The Adventures of Lovelace and Babbage,* it was a physical object with an internal mechanism. When thinking of computers, I tend to think of nothing more the keyboard and screen in front of me. It does what I tell it to do, and I never consider how. I don't think about the servers on which my data is stored. After reading Padua, I was forced to consider how the entire corpus of Jane Austen is available at my finger tips. Looking at the spatial representation of the analytical engine, and then at the masses of data on Project Gutenberg forced me to consider the physical space and network on which my laptop relies. 
+
+This lab forced me to think about both software and hardward in expanded ways, and the historical foundation of both as it related to Padua's *The Adventures of Lovelace and Babbage.* I am grateful for my expanded views of coding as a tool, coding as literacy, and text as data.
