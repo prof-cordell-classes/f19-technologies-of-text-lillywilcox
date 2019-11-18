@@ -1,0 +1,9 @@
+# Reading Prep: Assemblage
+
+#### Lilly Wilcox
+
+## Questions or Observations
+
+1. Pagan Kennedy describes her personal struggle between wanting to write "respectable fiction" and creating Pagan's head. This concept of "respectable fiction" is one that I have considered as a reader. I am much more inclined to take a book that I deem "contemporary literary fiction" out on the train or some other public place than something like an airport novel or a book that is considered "chick lit." I often feel like there is a standard I have to uphold to avoid being scrutinized, although that is unlikely to actually happen. I related strongly to the themes of this piece, even without being a prolific 'zine maker (or even a 'zine maker at all.)
+2. Both Kennedy's piece and the Zine Librarians Code of Ethics dicuss 'zine making as a cultivation and expression of community. While Kennedy's piece was published in 2014, the 'zine making community she describes is that of the 1990s, and the Code of Ethics was published in 2015. How have the motivation for 'zine making and the community surrounding the art changed or stayed the same?
+3. One thing that I had never consideed before the Book as Interface was the way that laptops mimic the shape of a codex and are similar to the size of a traditional quarto. I like Borsuk's argument that "the appendage of bookishness to our portable computing devices persists because the codex itself is an exemplary portable storage and retrieval technology." This quote also seemed to tie into the motivations behind Project Gutenberg, which "rather than processing information, he saw the potential of computers for storage and retrieval as their true benefit." It seems like Project Gutenberg essentially creates a book in that it unites a book-shaped laptop with the content and accessibility of books. 
