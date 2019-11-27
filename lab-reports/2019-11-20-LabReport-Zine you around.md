@@ -1,0 +1,21 @@
+# Lab Report: Zine You Around
+
+#### Lilly Wilcox
+
+## Process Description
+
+In this lab, we learned how to fold, cut, and create our own zines from a piece of letter sized paper and old newspapers. Personally, I created a zine about me individually. I didn't have a plan for a zine going into this lab, and was inspired by what I found when searching through the copies of The New Yorker and Outdoor Magazine that ended up in front of me. I was inspired to focus my zine on myself by a New Yorker cartoon of two baseball players during a mound visit, which reminded me of a similar photo of my dad and me. From there, I was able to pick out different magazine pieces that reminded me of me. 
+
+## Observations
+
+I was suprised by how meditative I found the process of zine making. Generally, I am not much of a crafty person, so I wans't expecting to enjoy the process. I am also a very plan dependent person, and going into this process with no idea what I was doing was indimidating. The former ended up not mattering to me because the latter was in play. If I had a plan going into this process, I wouldn't have been able to create the zine in the way I wanted. Being able to shape my ideas in the moment around the materials that I had let me think more about the process than the actual result. 
+
+As we all sat arounf the conference table making zines, I reflected on the community aspect of the process. In the readings and in our discussions, we talked a lot about networks of distribution, which I will get into more in the analysis section, but in the moment, I was more thinking about the communal creation process. I relied upon others to find certain pieces for my zine or cut out certain letters. In some sense, I was also picking through their scraps. Thinking back to my high school biology class, we depended on mutualism to make our zines. In some ways, each zine was a byproduct of the others because of what we left behind and how we helped each other. 
+
+## Analysis
+
+What stood out to me most from reading about Pagan's Head and our in class discussion was the reliance on networks for distributions. Networks have been an essential part of all of the different technologies we have talked about in class. Early print relied on consumer networks to assemble ink, type, and paper into books. Online reading relies on digital networks to send information accross servers and the internet. Zines depend on personal networks to collect stories, turn them into something physical, and then distribute them to people in the author's community, however big or small that is. While I haven't distributed my zine, it is still "a cultivation and expression of community" in that it centers around my personal experience, and the making experience was shaped by the processes of those around me (Zine Librarian Code of Ethics).
+
+Borsuk talked about the way that the codex shape has been maintained since its creation because "the codex itself is an exemplary portable storage and retrieval technology." While she mentions this to talk about the creation of the shape of laptops, I think it is relevant to zine making and the networks of zine distribution. We could have just taken our letter size paper and told a story on one sheet, but instead, we cut and folded that sheet of paper into a booklet. The assembled product became a smaller size with multiple pages. 
+
+The size was beneficial to its potential distribution in that our zines can fit in pockets. We talked about discretion of distribution in the zine making community because zine makers often tackle taboo topics and come from marginalized communities. The portability and storage of a pocket-size zine is important in that sense. Also, by operating with a number of small pages rather than one sheet of information, the reading process is broken up and enhanced. The element of suprise is added. I admired Sabina's creative take on her first zine because she used the form of the zine to her advantage. She used all of the pages wisely, but also used the underside of the fold to create a secondary message. The process of creating a codex shape makes a zine what it is, but it also is an affordance in its portability and changes the way that it is read. 
